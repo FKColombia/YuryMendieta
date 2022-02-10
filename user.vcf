@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Álvarez;Kaira del Carmen;;;
-FN: Kaira del Carmen Álvarez
+N:Álvarez;Kaira;;;
+FN: Kaira Álvarez
 ORG: Fresenius Kabi;
 TITLE: Representante de Promoción Médica
-EMAIL;type=INTERNET;type=WORK;type=pref:kaira.alvareza@fresenius-kabi.com
+EMAIL;type=INTERNET;type=WORK;type=pref:kaira.alvarez@fresenius-kabi.com
 TEL;type=WORK;type=VOICE:+573167446138
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
